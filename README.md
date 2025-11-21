@@ -4,7 +4,7 @@
 
 **Goal:** Pass AWS Solutions Architect Associate (SAA-C03) certification exam by February 2026
 
-**Duration:** November 19, 2025 - February 26, 2026 (100 days)
+**Duration:** November 20, 2025 - February 27, 2026 (100 days)
 
 **Study Plan:** 13-week intensive preparation combining video courses, hands-on labs, and practice exams
 
