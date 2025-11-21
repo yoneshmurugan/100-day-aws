@@ -10,4 +10,4 @@
 
 **Breakdown:**
 - Reading AWS Exam Guide: 1.5 hrs
-- AWS well Architected pillars [My Notes](./AWS SAA MY notes/AWS WA Pillar.one)
+- AWS well Architected pillars [My Notes][./AWS SAA MY notes/AWS WA Pillar.one]
