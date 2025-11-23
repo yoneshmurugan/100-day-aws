@@ -117,9 +117,10 @@ Each day I document:
 **Example:** [Day 1 Log](./logs/week-01/day-01.md)
 
 --- -->
-<!-- 
-## 📈 Practice Exam Scores
 
+## 📈 Practice Exam Scores
+- 24-11-25 Exam1-AWS Certified Cloud Practitioner Official Practice Question Set [day-04](Week1/day-04.md) Score-50%![Score](Certs&badges/image.png)
+<!-- 
 ### Tutorials Dojo Practice Exams (Target: 85%+)
 
 | Exam | Date | Score | Status | Review Notes |
