@@ -13,4 +13,4 @@
     - EFS
     - Instance store
 
-- [notes](../AWS%20SAA%20MY%20notes/EC2.one)
+- [notes](../AWS%20SAA%20MY%20notes/EC2.one) 
